@@ -1,5 +1,5 @@
-**                                                    Clinic Management System (Backend)
-**
+_Clinic Management System (Backend)_
+
 A secure, robust Spring Boot backend API designed to streamline clinic operations, including patient data management, appointment scheduling, and secure user account recovery.
 
 ## Features
